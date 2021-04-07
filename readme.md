@@ -4,11 +4,6 @@
 - Familiarize with Git
 - Initialize a Repo
 - Learn about Staging and commit
-
-
-
-
-
-
 - learn about Gitignore
 - Gitignore
+- git hub
