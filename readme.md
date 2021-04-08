@@ -1,9 +1,7 @@
-# Workshop for week 4 
+# Project work 
 
-## Learning Objectives
-- Familiarize with Git
-- Initialize a Repo
-- Learn about Staging and commit
-- learn about Gitignore
-- Gitignore
-- git hub
+## Hotel Website
+- Rooms
+- Booking
+- Customers
+- sign in & log in
