@@ -1,6 +1,6 @@
 # Project work 
 
-## Hotel Website
+## Hotel Website frontend
 - Rooms
 - Booking
 - Customers
