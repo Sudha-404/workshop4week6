@@ -4,4 +4,5 @@
 - Rooms
 - Booking
 - Customers
-- sign in & log in
+- footer
+
